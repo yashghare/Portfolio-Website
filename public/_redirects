@@ -1,1 +1,2 @@
-/* /index.html 200
+# Redirects are managed by Nitro's Netlify Function (generated at build time).
+# Do not add a SPA fallback rule here — the SSR function handles all routes.
